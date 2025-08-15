@@ -192,7 +192,7 @@ Date: 12/25/2023, 10:30:00 AM
   "version": "1.0.0",
   "message": "UserInfo Telegram Bot",
   "description": "Forward any message to get user info",
-  "timestamp": "2023-12-25T10:30:00.000Z"
+  "timestamp": "2025-08-15T10:02:42.342Z"
 }
 ```
 
