@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "telegram-userinfo-bot",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-08-15",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "vars": {
+    "MY_VAR": "my-variable",
+    "BOT_TOKEN": "8254832192:AAE-_o9d1JIJivZ06jIEMA6hsyx4o51dz6Q"
+  },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  }
+}
