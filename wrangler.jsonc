@@ -7,8 +7,7 @@
     "nodejs_compat"
   ],
   "vars": {
-    "MY_VAR": "my-variable",
-    "BOT_TOKEN": "8254832192:AAE-_o9d1JIJivZ06jIEMA6hsyx4o51dz6Q"
+    "BOT_TOKEN": "your_bot_token_here"
   },
   "observability": {
     "enabled": true,

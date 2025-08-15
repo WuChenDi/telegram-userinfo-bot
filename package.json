@@ -2,12 +2,12 @@
   "name": "telegram-userinfo-bot",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Telegram bot that extracts and displays detailed user information from forwarded messages or direct interactions.",
   "author": "wudi <wuchendi96@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WuChenDi/bc-services.git"
+    "url": "https://github.com/WuChenDi/telegram-userinfo-bot.git"
   },
   "scripts": {
     "dev": "wrangler dev --ip 0.0.0.0 --port 3000 src/index.ts",
