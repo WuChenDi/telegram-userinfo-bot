@@ -2,6 +2,7 @@
   "name": "telegram-userinfo-bot",
   "type": "module",
   "version": "1.0.0",
+  "packageManager": "pnpm@10.15.1",
   "description": "A Telegram bot that extracts and displays detailed user information from forwarded messages or direct interactions.",
   "author": "wudi <wuchendi96@gmail.com>",
   "license": "MIT",
@@ -17,13 +18,12 @@
     "cf-typegen": "wrangler types --env-interface CloudflareBindings"
   },
   "dependencies": {
-    "grammy": "^1.37.1",
-    "hono": "^4.9.1"
+    "grammy": "^1.38.3",
+    "hono": "^4.10.3"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250813.0",
-    "@types/node": "^22",
-    "wrangler": "^4.30.0"
-  },
-  "packageManager": "pnpm@10.14.0+sha512.ad27a79641b49c3e481a16a805baa71817a04bbe06a38d17e60e2eaee83f6a146c6a688125f5792e48dd5ba30e7da52a5cda4c3992b9ccf333f9ce223af84748"
+    "@cloudflare/workers-types": "^4.20251014.0",
+    "@types/node": "^24",
+    "wrangler": "^4.45.0"
+  }
 }
